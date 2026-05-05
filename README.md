@@ -4,7 +4,7 @@ Developed a deterministic "White Box" chatbot designed for high-efficiency inten
 ## Industrial Insights
 As part of the DecodeLabs curriculum, this project demonstrates the "Engineer's Mindset": mastering the precision of a logic engine before managing the chaos of probabilistic models (LLMs).
 
-#SYSTEM ARCHITECTURE
+# SYSTEM ARCHITECTURE
 
 USER INTERFACE ───────────────────────────────────────────────────────────────────────────> OUTPUT
 
@@ -24,7 +24,7 @@ EXIT FLOW ───────────────────────�
 └───────────────┘      └──────────────┘      └───────────────┘      └──────────────────────┘
 
 
-###Quick Start
+### Quick Start
 1. Clone the repository:
 
 git clone <your-repo-url>
